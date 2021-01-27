@@ -1,4 +1,6 @@
 package com.example.kotlin_mvvm.ui
 
-class Main {
+import androidx.appcompat.app.AppCompatActivity
+
+class Main:AppCompatActivity() {
 }
